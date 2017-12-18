@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/acilia/ws/bean/BeanLogin.java=UTF-8
+encoding//src/com/acilia/ws/service/impl/IFaceLoginImpl.java=UTF-8
+encoding//src/com/acilia/ws/service/impl/IFaceLoginImplService.java=UTF-8
+encoding//src/com/acilia/ws/service/impl/IFaceLoginImplServiceLocator.java=UTF-8
+encoding//src/com/acilia/ws/service/impl/IFaceLoginImplSoapBindingStub.java=UTF-8
